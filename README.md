@@ -13,3 +13,5 @@ My name is Faruq Rahmadani this is my personal website showcasing my professiona
 ## Educational Barckground
 
 ## Hobbies 
+
+## Life Vision
